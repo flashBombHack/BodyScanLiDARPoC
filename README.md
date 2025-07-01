@@ -41,7 +41,7 @@ Follow these steps to clone, build, and run the project:
 
 Clone the Repository:
 
-git clone https://github.com/yourusername/YourRepoName.git
+``git clone https://github.com/flashBombHack/BodyScanLiDARPoC.git``
 cd YourRepoName # Navigate to the root of your cloned repository
 
 (Replace yourusername with your GitHub username and YourRepoName with your actual repository name, e.g., BodyScanLidarPoC).
